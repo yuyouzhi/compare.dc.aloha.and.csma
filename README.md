@@ -6,3 +6,5 @@ The code of delay constrained ALOHA and exact model.
 The code for the approximate model of delay constrained CSMA.
 # aloha_rough_pred
 The code for the approximate model of delay constrained ALOHA.
+# avg_time
+The code for the average delivery time of delay constrained ALOHA and delay constrained CSMA.
